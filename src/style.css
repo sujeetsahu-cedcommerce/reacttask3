@@ -1,0 +1,67 @@
+.main_container{
+    border: 5px solid black; 
+}
+
+.virtual1{
+    margin-top: 7%;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.CompHeader{
+    border:1px solid red;
+    width:100%;
+    height: 50px;
+}
+
+.virtual2{
+    margin-top: 3%;
+    margin-bottom: 4%;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.compLeft{
+    border:1px solid red;
+    width:55%;
+    height: 500px;
+}
+
+.compRight{
+    border:1px solid red;
+    width:39%;
+    height: 500px;
+}
+
+.Subcomponent3{
+    border:1px solid red;
+    margin-top: 8%;
+    margin-left: 7%;
+    margin-right: 7%;
+    height:390px;
+}
+
+.virtual3{
+ 
+    margin-top: 8%;
+    margin-left:7%;
+    margin-right:7%;
+    margin-bottom: 30px;
+}
+
+.Subcomponent1{
+    border:1px solid red;
+    height: 160px;
+}
+
+.Subcomponent2{
+    border:1px solid red;
+    height: 160px;
+    margin-top: 10%;
+}
+
+.para{
+    margin-left: 3%;
+}
